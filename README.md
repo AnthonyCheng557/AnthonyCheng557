@@ -18,9 +18,9 @@
 </p>
 </div>
 <div>
-<a href="https://en.wikipedia.org/wiki/University_of_Maryland,_College_Park" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Maryland_seal.svg/1200px-University_of_Maryland_seal.svg.png" alt="University of Maryland" width="120" />
-  </a>
+<p align="center">
+  <img src="assets/umd-logo.png" alt="University of Maryland" width="150"/>
+</p>
 </div>
 </div>
 <h3 align="left">Languages and Tools:</h3>
