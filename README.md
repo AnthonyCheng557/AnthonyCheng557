@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Anthony</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
-<div style="display: flex">
+<div>
 <div>
 <h3 align="left">About Me:</h3>
 - 🌱 I’m currently learning **Tailwind CSS**
