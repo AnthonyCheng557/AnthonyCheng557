@@ -18,11 +18,7 @@
 </p>
 </div>
 
-<p align="center">
-  <a href="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/University_of_Maryland_seal.svg/640px-University_of_Maryland_seal.svg.png" target="_blank">
-    <img src="assets/umd-logo.png" alt="University of Maryland" width="150"/>
-  </a>
-</p>
+![Image](https://github.com/user-attachments/assets/6649c004-e74f-4fdd-9447-f0419c5214b4)
 
 </div>
 <h3 align="left">Languages and Tools:</h3>
