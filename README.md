@@ -18,12 +18,15 @@
 
 
 </td>
-    <!--<td align="center" valign="middle"></td> -->
+    <td align="center" valign="middle">
+      <img src="images/University_of_Maryland_seal.svg.png" alt="UMD Seal" height="50" width="50" />
+      
+    </td>
   </tr>
 </table>
 
 
-<img src="images/University_of_Maryland_seal.svg.png" alt="UMD Seal" height="50" width="50" />
+
 
 <h3 align="left">Languages and Tools:</h3>
 
