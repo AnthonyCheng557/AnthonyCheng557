@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Anthony</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
-<div>
+<div style="display: flex">
 <div>
 <h3 align="left">About Me:</h3>
 - 🌱 I’m currently learning **Tailwind CSS**
@@ -17,9 +17,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anthony-cheng-347674250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anthony-cheng-347674250/" height="30" width="40" /></a>
 </p>
 </div>
-
+<div>
 ![Image](https://github.com/user-attachments/assets/6649c004-e74f-4fdd-9447-f0419c5214b4)
-
+</div>
 </div>
 <h3 align="left">Languages and Tools:</h3>
 
