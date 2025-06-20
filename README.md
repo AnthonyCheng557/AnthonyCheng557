@@ -19,7 +19,7 @@
 
 </td>
     <td align="center" valign="middle">
-      ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/University_of_Maryland_seal.svg.png "Logo Title Text 1")
+      ![alt text](https://github.com/adam-p/markdown-here/raw/master/images/University_of_Maryland_seal.svg.png "Logo Title Text 1")
     </td>
   </tr>
 </table>
