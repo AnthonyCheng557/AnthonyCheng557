@@ -19,7 +19,7 @@
 
 </td>
     <td align="center" valign="middle">
-     ![University of Maryland Seal](https://github.com/AnthonyCheng557/images/raw/main/University_of_Maryland_seal.svg.png)
+     ![University of Maryland Seal](https://github.com/AnthonyCheng557/AnthonyCheng557/blob/main/images/University_of_Maryland_seal.svg.png)
     </td>
   </tr>
 </table>
