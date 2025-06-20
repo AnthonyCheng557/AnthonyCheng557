@@ -19,7 +19,7 @@
 
 </td>
     <td align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/AnthonyCheng557/AnthonyCheng557/images/University_of_Maryland_seal.svg.png" width="100">
+      <img src="https://raw.githubusercontent.com/AnthonyCheng557/images/University_of_Maryland_seal.svg.png" width="100">
     </td>
   </tr>
 </table>
