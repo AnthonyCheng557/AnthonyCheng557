@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <a href="[https://umd.edu](https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/University_of_Maryland_seal.svg/640px-University_of_Maryland_seal.svg.png)" target="_blank">
+  <a href="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/University_of_Maryland_seal.svg/640px-University_of_Maryland_seal.svg.png" target="_blank">
     <img src="assets/umd-logo.png" alt="University of Maryland" width="150"/>
   </a>
 </p>
