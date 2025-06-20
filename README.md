@@ -17,11 +17,13 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anthony-cheng-347674250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anthony-cheng-347674250/" height="30" width="40" /></a>
 </p>
 </div>
-<div>
+
 <p align="center">
-  <img src="assets/umd-logo.png" alt="University of Maryland" width="150"/>
+  <a href="https://umd.edu" target="_blank">
+    <img src="assets/umd-logo.png" alt="University of Maryland" width="150"/>
+  </a>
 </p>
-</div>
+
 </div>
 <h3 align="left">Languages and Tools:</h3>
 
