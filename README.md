@@ -22,9 +22,8 @@
   </tr>
 </table>
 
- ![University of Maryland Seal](images/University_of_Maryland_seal.svg.png)
 
-<img src="images/University_of_Maryland_seal.svg.png" alt="UMD Seal" width="10" />
+<img src="images/University_of_Maryland_seal.svg.png" alt="UMD Seal" height="50" width="50" />
 
 <h3 align="left">Languages and Tools:</h3>
 
