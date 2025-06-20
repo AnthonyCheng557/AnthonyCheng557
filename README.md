@@ -19,9 +19,7 @@
 
 </td>
     <td align="center" valign="middle">
-      <p>
-     ![Image](https://github.com/user-attachments/assets/6649c004-e74f-4fdd-9447-f0419c5214b4)
-        </p>
+      ![logo](images/University_of_Maryland_seal.svg.png)
     </td>
   </tr>
 </table>
