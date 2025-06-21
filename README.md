@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Anthony</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
-[](https://komarev.com/ghpvc/?username=AnthonyCheng557)
+![](https://komarev.com/ghpvc/?username=AnthonyCheng557)
 <table>
   <tr>
     <td>
