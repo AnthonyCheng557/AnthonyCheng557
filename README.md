@@ -13,12 +13,12 @@
 
 <h3>Connect with me:</h3>
  <a href="https://www.linkedin.com/in/anthony-cheng-347674250/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50" />
 
 
 </td>
     <td align="center" valign="middle">
-      <img src="images/University_of_Maryland_seal.svg.png" alt="UMD Seal" height="auto" width="auto" />
+      <img src="images/University_of_Maryland_seal.svg.png" alt="UMD Seal" height="100" width="100" />
       
   </tr>
 </table>
