@@ -13,7 +13,7 @@
 
 <h3>Connect with me:</h3>
  <a href="https://www.linkedin.com/in/anthony-cheng-347674250/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20" />
 
 
 </td>
