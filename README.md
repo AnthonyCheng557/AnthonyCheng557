@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Anthony</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
-<table>
+<table align="center">
   <tr>
     <td>
 
