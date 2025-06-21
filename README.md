@@ -18,7 +18,7 @@
 
 </td>
     <td align="center" valign="middle">
-      <img src="images/University_of_Maryland_seal.svg.png" alt="UMD Seal" height="500" width="500" />
+      <img src="images/University_of_Maryland_seal.svg.png" alt="UMD Seal" height="400" width="400" />
       
   </tr>
 </table>
