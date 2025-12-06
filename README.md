@@ -6,7 +6,7 @@
     <td>
 
 
-- 🌱 I’m currently learning **Tailwind CSS**  
+- 🌱 I’m currently learning **Django and SpringBoot**  
 - 💬 Ask me about **React, MongoDb**  
 - 📫 How to reach me: **chenganthony557@gmail.com**  
 - ⚡ Fun fact: **I play chess**  
